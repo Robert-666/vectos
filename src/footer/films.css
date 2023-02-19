@@ -1,0 +1,20 @@
+.footer {
+    background: black;
+    
+    
+}
+
+.footer .mySwiper {
+    margin: 0 0 0 90px;
+    
+}
+
+
+
+
+.footer .mySwiper .swiperSlide img {
+    width: 160px ;
+    height: 190px;
+    object-fit: cover;
+}
+
